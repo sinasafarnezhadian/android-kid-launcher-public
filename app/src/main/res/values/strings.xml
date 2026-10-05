@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kid Launcher</string>
+    <string name="launcher_no_device_owner">Achtung: App ist kein Device Owner – Lock Task inaktiv</string>
+    <string name="parent_pin_title">Eltern-PIN eingeben</string>
+    <string name="parent_pin_confirm">Bestätigen</string>
+    <string name="parent_pin_wrong">Falsche PIN</string>
+    <string name="open_settings_button">Systemeinstellungen öffnen</string>
+    <string name="speed_dial_manage_button">Kurzwahl verwalten</string>
+    <string name="speed_dial_manage_title">Kurzwahl-Kontakte</string>
+    <string name="speed_dial_pick_contact_button">Aus Kontakten wählen</string>
+    <string name="speed_dial_add_manual_button">Manuell hinzufügen</string>
+    <string name="speed_dial_add_title">Kontakt hinzufügen</string>
+    <string name="speed_dial_name_hint">Name</string>
+    <string name="speed_dial_number_hint">Telefonnummer</string>
+    <string name="speed_dial_remove_button">Entfernen</string>
+    <string name="speed_dial_row_format">%1$s (%2$s)</string>
+    <string name="speed_dial_pick_failed">Kontakt konnte nicht gelesen werden</string>
+
+    <string name="burger_menu_symbol">☰</string>
+    <string name="parent_overlay_title">Eltern-Bereich</string>
+    <string name="close_button">Schließen</string>
+    <string name="deactivate_kid_launcher_button">Kid Launcher deaktivieren</string>
+    <string name="activate_kid_launcher_button">Kid Launcher wieder aktivieren</string>
+
+    <string name="change_pin_button">PIN ändern</string>
+    <string name="change_pin_title">Neue PIN festlegen</string>
+    <string name="change_pin_new_hint">Neue PIN</string>
+    <string name="change_pin_confirm_hint">PIN bestätigen</string>
+    <string name="change_pin_mismatch">PINs stimmen nicht überein</string>
+    <string name="change_pin_success">PIN geändert</string>
+
+    <string name="featured_photo_save_failed">Bild konnte nicht gespeichert werden</string>
+    <string name="featured_photo_placeholder">Foto</string>
+
+    <string name="accept_call_button">Ja</string>
+    <string name="decline_call_button">Nein</string>
+    <string name="unknown_caller">Unbekannter Anrufer</string>
+
+    <string name="school_mode_label">Schulmodus</string>
+    <string name="school_mode_write_settings_button">Einstellungszugriff für Vibration freigeben</string>
+    <string name="school_mode_schedule_title">Schulmodus automatisch</string>
+    <string name="school_mode_schedule_enabled_label">Automatisch aktivieren</string>
+    <string name="school_mode_schedule_start_format">Start: %1$s</string>
+    <string name="school_mode_schedule_end_format">Ende: %1$s</string>
+</resources>
